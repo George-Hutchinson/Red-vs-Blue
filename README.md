@@ -1,3 +1,3 @@
 # Red-vs-Blue
 
-This is a game I made to test how Unity works and because why not.
+This is a game I made to test how Unity works.
