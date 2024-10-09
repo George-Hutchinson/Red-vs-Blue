@@ -1,3 +1,5 @@
 # Red-vs-Blue
 
-This is a game I made to test how Unity works.
+This is my first non-tutorial game that I made in Unity.
+
+Thank you MiMU STUDIO for the free asset pack.
